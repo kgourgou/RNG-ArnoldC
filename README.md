@@ -7,3 +7,9 @@ Not debugged at all, wouldn't try anything more complicated than picking
 lottery numbers with it. 
 
 
+To compile, you will need [ArnoldC.jar](http://lhartikk.github.io/ArnoldC/). Then, 
+
+'''
+java -jar ArnoldC.jar random.arnoldC
+java random
+'''
